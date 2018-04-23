@@ -1,3 +1,2 @@
 # Java-Calculator
---Not yet finished. 
-Java based calculator
+-- You know how everyone uses 'Hello world'? Well mine is a calculator: Java based calculator
